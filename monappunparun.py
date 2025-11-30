@@ -39,5 +39,5 @@ for i in range(1000):
 
 end = time.time()
 
-print(f"✔ Insertion terminée. Temps total : {end - start:.2f} secondes.")
+print(f" Insertion terminée. Temps total : {end - start:.2f} secondes.")
 
